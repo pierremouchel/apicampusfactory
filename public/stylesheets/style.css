@@ -1,0 +1,28 @@
+.block-body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block-body .block-title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block-body .block-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.block-body .block-form .form-group {
+  text-align: left;
+}
+
+.block-body .block-token {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

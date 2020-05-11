@@ -1,6 +1,6 @@
-# API Utopia Terrae
+# API Campus Factory
 
-Installation instruction for Utopia Terrae API
+Installation instruction for Campus Factory API
 
 ## Installation
 
